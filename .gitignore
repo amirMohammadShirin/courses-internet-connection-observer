@@ -25,3 +25,10 @@ local.properties
 /.idea/vcs.xml
 /.idea/deploymentTargetSelector.xml
 /.idea/other.xml
+/.idea/.name
+/app/.idea/gradle.xml
+/app/.idea/migrations.xml
+/app/.idea/misc.xml
+/app/.idea/other.xml
+/app/.idea/vcs.xml
+/app/.idea/workspace.xml
