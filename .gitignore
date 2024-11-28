@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/res/xml/backup_rules.xml
+/.idea/compiler.xml
+/internetconnectionobserver/consumer-rules.pro
+/app/src/main/res/xml/data_extraction_rules.xml
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/migrations.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
